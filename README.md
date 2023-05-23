@@ -27,7 +27,7 @@ HLD : https://drive.google.com/file/d/1loj03d7Q0kldvEUUuc2UHrpMSWsns89R/view?usp
 
 LLD : https://drive.google.com/file/d/1yGY98Mo_wh7Jt6QnfDD3Tch8ZznUoatQ/view?usp=share_link
 
-DPR : https://drive.google.com/file/d/1loj03d7Q0kldvEUUuc2UHrpMSWsns89R/view?usp=share_link
+DPR : https://drive.google.com/file/d/1qUMZ7tSr0_2-r_3amWnxA8PCETisatSn/view?usp=share_link
 
 Wireframe : https://drive.google.com/file/d/1TqgCLTCjqmwHwjVHGVpWm-3GPAGHdJDo/view?usp=share_link
 
